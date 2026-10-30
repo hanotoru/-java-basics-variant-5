@@ -17,3 +17,4 @@ public class Main {
         System.out.println("Модуль успешно инициализирован в Git!");
     }
 }
+// docs: update comments.
